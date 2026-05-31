@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerpelete",
+        "uuid": 12845178,
+        "checksum": "gjeetv"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
